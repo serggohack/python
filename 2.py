@@ -93,7 +93,7 @@ def main():
             crit.talk()
         
         
-        elif choice == "2":
+        elif choice == "2": 
             crit.eat(food=int(input("Сколько дадите еды зверушке?")))
          
         
